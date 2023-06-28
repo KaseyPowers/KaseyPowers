@@ -4,6 +4,8 @@ Software Engineer with a focus on Front-End Web and UX Development
 ## Strengths
 - Learning new coding languages and frameworks.
 - Working with UX Designers in implementing the desired look and behavior.
+- Problem Solving and Critical Thinking
+- Mentoring, Teaching, and overall helping others with subjects I'm familiar with.
 
 ## Goals
 - More familiarity with developing back-end systems.
